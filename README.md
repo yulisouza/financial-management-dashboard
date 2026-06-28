@@ -1,4 +1,4 @@
-# Church Financial Management System
+# Nonprofit Financial Management System
 ### End-to-end financial reporting and analysis for a nonprofit organization
 
 ---
