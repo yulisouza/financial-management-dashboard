@@ -106,9 +106,9 @@ This definition then drives the **Financial Autonomy** indicator:
 Financial Autonomy (months) = Total Reserve ÷ Monthly Operational Cost
 ```
 
-As of June 2026: R$ 9,016 ÷ R$ 4,415 = **2.0 months**
+As of June 2026: R$ 14,208 ÷ R$ 4,415 = **3.2 months**
 
-This means the organization can sustain core operations for 2 months without any new income — a metric directly usable by leadership for risk assessment.
+This means the organization can sustain core operations for 3.2 months without any new income — a metric directly usable by leadership for risk assessment.
 
 ---
 
@@ -116,14 +116,14 @@ This means the organization can sustain core operations for 2 months without any
 
 | Indicator | Definition | Current Value |
 |---|---|---|
-| Total Revenue | Sum of all income entries in the period | R$ 43,551 |
-| Total Expenses | Sum of all expense entries in the period | R$ 43,494 |
-| Period Result | Revenue − Expenses | R$ +56.73 |
-| Checking Account Balance | Month-end balance | R$ 3,862 |
+| Total Revenue | Sum of all income entries in the period | R$ 49,126 |
+| Total Expenses | Sum of all expense entries in the period | R$ 43,877 |
+| Period Result | Revenue − Expenses | R$ +5,250 |
+| Checking Account Balance | Month-end balance | R$ 9,054 |
 | Card Reserve | Prepaid card balance | R$ 5,154 |
-| Total Reserve | Checking + Card | R$ 9,016 |
+| Total Reserve | Checking + Card | R$ 14,208 |
 | Operational Cost | Fixed + Food + Materials (monthly avg) | R$ 4,415 |
-| Financial Autonomy | Reserve ÷ Operational Cost | 2.0 months |
+| Financial Autonomy | Reserve ÷ Operational Cost | 3.2 months |
 
 ---
 
@@ -199,11 +199,10 @@ This system was built to solve a real operational problem for the treasury of a 
 
 It is part of a broader portfolio focused on **Data & Finance**, combining financial analysis, data modeling, and business intelligence.
 
-> **Author:** Yuli Rodrigues
+> **Author:** Yuli Souza
 > Data & Finance professional focused on turning financial data into actionable decisions.
 > Focus: Financial Analysis · Business Intelligence · FP&A · Data Analytics
 
 ---
 
 *Last updated: June 2026*
-
